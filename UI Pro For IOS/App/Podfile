@@ -1,0 +1,10 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'UI Pro For IOS' do
+  use_frameworks!
+  pod 'Pastel'
+  pod 'Mapbox-iOS-SDK', '~> 3.7'
+  pod 'Toast-Swift', '~> 3.0.1'
+
+end

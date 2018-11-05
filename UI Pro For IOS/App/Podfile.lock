@@ -1,0 +1,18 @@
+PODS:
+  - Mapbox-iOS-SDK (3.7.5)
+  - Pastel (0.3.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Mapbox-iOS-SDK (~> 3.7)
+  - Pastel
+  - Toast-Swift (~> 3.0.1)
+
+SPEC CHECKSUMS:
+  Mapbox-iOS-SDK: 107e331a7ae02e6be902c1557d3454c54e18ce5b
+  Pastel: 738740c84f2b15bbcd96ebe99c4e6c2f5dd42262
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 1d656b08d823640fb1eb8ce358904aac75f0579c
+
+COCOAPODS: 1.4.0
